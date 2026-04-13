@@ -17,14 +17,6 @@
 
 ---
 
-<p align="center">
-
-https://github.com/SiliconVisions/Motiou-Releases/raw/main/demo.mp4
-
-</p>
-
----
-
 ### Features
 
 **Recording**
