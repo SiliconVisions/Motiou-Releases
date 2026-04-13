@@ -18,11 +18,9 @@
 ---
 
 <p align="center">
-  <a href="https://motiou.com/media/hero-video.mp4">
-    <img src="https://motiou.com/og-image.png" alt="Watch Motiou in action" width="720" />
-  </a>
-  <br/>
-  <sub>▶ Click to watch Motiou in action</sub>
+
+https://github.com/SiliconVisions/Motiou-Releases/raw/main/demo.mp4
+
 </p>
 
 ---
